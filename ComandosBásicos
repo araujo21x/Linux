@@ -1,0 +1,11 @@
+cd = Mover entre as pastas;
+  Ex: cd ~/Documentos/GitHub/ -> Ira para a pasta GitHub
+  
+ls = Ver os arquivos da pasta atual ou de uma determinada pasta;
+  Ex: ls ~/Documentos/ -> Ira mostrar todos os arquivos dessa pasta
+
+mkdir = Criar pasta(s) no diretorio atual;
+  Ex: mkdir Pasta01 -> Ela ira criar no diretorio atual, se por vc estier em cd ~/Documentos/GitHub/ ira criar nesse local;
+  Ex2:mkdir Pasta01 Pasta02 Pasta03 -> Você pode criar quantas pastas quiser so precisa da um espaço e coloca o nome da 
+  outra pasta no caso;
+  Ex3:mkdir Pasta\ 01 -> Vai criar uma pasta só com o nome Pasta 01, \ serve para colocar espaço;
