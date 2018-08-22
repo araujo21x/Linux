@@ -24,3 +24,10 @@ Date = Ver data;
 
 history = mostrar o historico dos comandos já utilizados, se coloca history 'valor' ira so mostrar
 os ultimos comandos de acordo com o valor informado;
+
+Abrir Programa = Só precisa colocar o nome do programa;
+  Ex: chromium -> ira abri o chromium. OBS = mas o terminal atual ficara tipo bloqueado, para nao acontecer 
+  é só colocar '&', 'chromium &', quando voltar no terminal ao aperta a tecla 'enter' ele vai voltar ao normal.
+
+Para abrir arquivos = colocar o nome do programa que ler o tipo de arquivo e o nome do arquivo;
+  Ex: leafpad texto.txt ou nano texto.txt -> já no diretorio do arquivo, leafpad é um editor de texto igual bloco de notas.
