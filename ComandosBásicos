@@ -9,3 +9,18 @@ mkdir = Criar pasta(s) no diretorio atual;
   Ex2:mkdir Pasta01 Pasta02 Pasta03 -> Você pode criar quantas pastas quiser so precisa da um espaço e coloca o nome da 
   outra pasta no caso;
   Ex3:mkdir Pasta\ 01 -> Vai criar uma pasta só com o nome Pasta 01, \ serve para colocar espaço;
+  
+mc = Mover ou renomear o arquivo
+  Ex:mv 'nome do arquivo ou pasta' 'novo nome' (no caso já estou na pasta do arquivo)-> para renomear;
+  Ex2:mv 'nome do arquvo ou pasta' ~/Documentos/GitHub/ -> mover  arquivo para a pasta;
+  
+pwd = Mostrar o caminho até a pasta atual;
+  Ex: pwd -> se eu estiver na pasta GitHub ira mostrar "/home/lucas/Documentos/GitHub";
+  
+touch = Cria arquivos, 'nome.tipo do arquivo'
+  Ex: texto.txt -> no caso criei um arquivo txt;
+  
+Date = Ver data;
+
+history = mostrar o historico dos comandos já utilizados, se coloca history 'valor' ira so mostrar
+os ultimos comandos de acordo com o valor informado;
