@@ -31,3 +31,6 @@ Abrir Programa = Só precisa colocar o nome do programa;
 
 Para abrir arquivos = colocar o nome do programa que ler o tipo de arquivo e o nome do arquivo;
   Ex: leafpad texto.txt ou nano texto.txt -> já no diretorio do arquivo, leafpad é um editor de texto igual bloco de notas.
+
+Para abrir programas = sudo pacman -S 'nome do programa'
+  sudo para entra no modo root, pacman -S para instalar
