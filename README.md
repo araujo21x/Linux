@@ -1,4 +1,4 @@
 # Linux
-Estudos sobre linux
+Estudos sobre linux, distro manjaro
 
 Comandos Básicos 
