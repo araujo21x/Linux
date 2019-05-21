@@ -43,4 +43,6 @@ os ultimos comandos de acordo com o valor informado;
   Ex: yaourt -S chromium.
 *Para procurar atualizações = sudo pacman -Su;
 *Para procurar atualizações do repositorio AUR = yaourt -Syyuua;
-*Para apagar programa = sudo pacman -Rsnc <nome do pacote>.
+*Para apagar programa = sudo pacman -Rsnc <nome do pacote>;
+*Para fechar um programa = kill all <nome do programa/numero>;
+*Para pegar o numero do programa, primeiro valor numerico que aparece com 4 digitos = ps aux | grep <nome do programa>.
