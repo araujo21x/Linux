@@ -13,6 +13,9 @@
 *mc = Mover ou renomear o arquivo
   Ex:mv 'nome do arquivo ou pasta' 'novo nome' (no caso já estou na pasta do arquivo)-> para renomear;
   Ex2:mv 'nome do arquvo ou pasta' ~/Documentos/GitHub/ -> mover  arquivo para a pasta;
+
+*rm -r = apaga um diretorio especifico
+  Ex: rm -r 'diretorio' ~/Documentos/GitHub/" ira apagar esse diretorio;
   
 *pwd = Mostrar o caminho até a pasta atual;
   Ex: pwd -> se eu estiver na pasta GitHub ira mostrar "/home/lucas/Documentos/GitHub";
