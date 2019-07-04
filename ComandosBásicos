@@ -10,7 +10,7 @@
   outra pasta no caso;
   Ex3:mkdir Pasta\ 01 -> Vai criar uma pasta só com o nome Pasta 01, \ serve para colocar espaço;
   
-*mc = Mover ou renomear o arquivo
+*mv = Mover ou renomear o arquivo
   Ex:mv 'nome do arquivo ou pasta' 'novo nome' (no caso já estou na pasta do arquivo)-> para renomear;
   Ex2:mv 'nome do arquvo ou pasta' ~/Documentos/GitHub/ -> mover  arquivo para a pasta;
 
@@ -22,6 +22,10 @@
   
 *touch = Cria arquivos, 'nome.tipo do arquivo'
   Ex: texto.txt -> no caso criei um arquivo txt;
+  
+ *Extrair arquivo zip = unzip nomedoarquivo.zip;
+ 
+ *Extrair arquivo rar = unrar x nomedoarquivo.rar;
   
 *Date = Ver data;
 
